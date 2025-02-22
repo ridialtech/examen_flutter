@@ -1,1 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P001",
+      "designation": "Produit 1",
+      "prix": 10.99
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "designation": "Produit 2",
+      "prix": 20
+    }
+  ]
+}
 
